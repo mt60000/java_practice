@@ -1,4 +1,4 @@
-package classMethod;
+package practice;
 
 public class Car {
 	//燃費（Km/L）
